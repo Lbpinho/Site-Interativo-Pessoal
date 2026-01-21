@@ -18,7 +18,7 @@ Olá! Este é o meu **site pessoal interativo**, desenvolvido em **HTML, CSS e J
 ## Como ver meu site
 
 Você pode abrir o arquivo `index.html` localmente ou acessar diretamente online pelo GitHub Pages:  
-[Link do meu site]()
+[Link do meu site](https://Lbpinho.github.io/Site-Interativo-Pessoal/)
 
 ---
 
